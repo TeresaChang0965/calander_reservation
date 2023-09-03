@@ -181,6 +181,3 @@ def server(input, output, session):
 
 
 app = App(app_ui, server)
-
-
-# & "C:\Users\Teresa\AppData\Local\Microsoft\WindowsApps\python3.11.exe" -m shiny run --port 63799 --reload "c:\\Users\\Teresa\\Desktop\\html\\app.py"
